@@ -1,0 +1,53 @@
+Thu Feb  8 08:46:37 2024 [2980][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Thu Feb  8 08:46:37 2024 [2980][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Thu Feb  8 08:46:37 2024 [2980][1][FATAL] Email address save error
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Setting logger_file_ext to '.log'.
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Setting logger_file_name to ''.
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Log file extension can't be blank.
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Setting logger_file_name to ''.
+Thu Feb  8 08:46:43 2024 [2980][1][SECURITY] Log file extension can't be blank.
+Thu Feb  8 08:47:24 2024 [2980][1][FATAL] ZIP Error(0): Status(9)
+Thu Feb  8 08:47:32 2024 [2980][1][FATAL] ZIP Error(0): Status(9)
+Thu Feb  8 08:49:37 2024 [2980][1][FATAL] ZIP Error(0): Status(9)
+Thu Feb  8 08:51:07 2024 [2980][1][FATAL] ZIP Error(0): Status(9)
+Fri Feb  9 04:37:17 2024 [2980][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Feb  9 04:37:17 2024 [2980][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Feb  9 04:37:17 2024 [2980][1][SECURITY] Setting logger_file_name to ''.
+Fri Feb  9 04:37:17 2024 [2980][1][SECURITY] Log file extension can't be blank.
+Fri Feb  9 06:05:09 2024 [2980][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Fri Feb  9 06:47:40 2024 [2980][1][FATAL] ZIP Error(0): Status(9)
+Fri Feb  9 06:50:44 2024 [2980][1][FATAL] Exception handling in C:\xampp\htdocs\adam\include\MVC\Controller\SugarController.php:397
+Fri Feb  9 06:50:44 2024 [2980][1][FATAL] Exception in Controller: Invalid Package
+Fri Feb  9 06:50:53 2024 [2980][1][FATAL] Exception handling in C:\xampp\htdocs\adam\include\MVC\Controller\SugarController.php:397
+Fri Feb  9 06:50:53 2024 [2980][1][FATAL] Exception in Controller: Invalid Package
+Sun Feb 11 13:08:02 2024 [17724][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Feb 11 13:08:02 2024 [17724][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Sun Feb 11 13:08:04 2024 [17724][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Feb 11 13:08:04 2024 [17724][-none-][FATAL] FAILED LOGIN:attempts[2], ip[::1], username[admin]
+Sun Feb 11 13:46:01 2024 [17724][1][FATAL] ВНИМАНИЕ: В процессе загрузки произошла ошибка, для решения вопроса свяжитесь с системным администратором.
+Mon Feb 12 04:21:01 2024 [17724][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Mon Feb 12 06:24:33 2024 [26152][1][FATAL] Exception handling in C:\xampp\htdocs\adam\include\MVC\Controller\SugarController.php:397
+Mon Feb 12 06:24:33 2024 [26152][1][FATAL] Exception in Controller: Ошибка получения записи. Вероятно, эта запись была удалена или у вас недостаточно прав для её просмотра.
+Tue Feb 13 04:07:35 2024 [26096][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Feb 13 04:07:35 2024 [26096][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri Feb 16 04:38:22 2024 [11040][1][FATAL] ZIP Error(0): Status(9)
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Setting logger_file_name to ''.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Log file extension can't be blank.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Setting logger_file_name to ''.
+Fri Feb 16 04:49:23 2024 [11040][1][SECURITY] Log file extension can't be blank.
+Fri Feb 16 04:55:02 2024 [11040][1][FATAL] ZIP Error(0): Status(9)
+Fri Feb 16 05:05:19 2024 [11040][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Feb 16 05:05:19 2024 [11040][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Feb 16 05:05:19 2024 [11040][1][SECURITY] Setting logger_file_name to ''.
+Fri Feb 16 05:05:19 2024 [11040][1][SECURITY] Log file extension can't be blank.
+Fri Aug  9 10:09:44 2024 [22428][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Aug  9 10:09:44 2024 [22428][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri Aug  9 10:09:46 2024 [22428][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Aug  9 10:09:46 2024 [22428][-none-][FATAL] FAILED LOGIN:attempts[2], ip[::1], username[admin]
+Fri Aug  9 10:09:49 2024 [22428][-none-][FATAL] SECURITY: User authentication for root failed
+Fri Aug  9 10:09:49 2024 [22428][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[root]
